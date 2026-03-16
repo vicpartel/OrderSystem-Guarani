@@ -10,8 +10,8 @@ Antes de executar o projeto, certifique-se de que as seguintes ferramentas estã
 
 * **Java JDK 17**
 * **Maven 3.8+**
-* **PostgreSQL ou MySQL**
-* **IDE recomendada:** IntelliJ IDEA, Eclipse ou VS Code
+* **MySQL**
+* **IDE utilizada:** VS Code
 
 Verifique as versões instaladas:
 
